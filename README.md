@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @dev-aclara!
 - 📚 I'm studying computer science since 2019
-- 🗓 Currently 19 yeares old
+- 🗓 Currently 19 years old
 - 🚩 I live in Tupi Paulista - SP
 - 🌱 I’m currently learning react.js and node.js
 
