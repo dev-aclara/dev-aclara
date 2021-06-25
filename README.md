@@ -1,11 +1,16 @@
-- 👋 Hello, I'm @dev-aclara!
-- 📚 I'm studying computer science since 2019
-- 🗓 Currently 19 years old
-- 🚩 I live in Tupi Paulista - SP
-- 🌱 I’m currently learning react.js and node.js
-
-
-<!---
-dev-aclara/dev-aclara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Ana Clara Mansano!
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-aclara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aclara&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/ana-clara-mansano-5051011ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>
+ 
+  ![Snake animation](https://github.com/dev-aclara)
+ 
+</div>
