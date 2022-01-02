@@ -29,5 +29,5 @@
 <br>
 💬 <i>Feel free to chat with me. Call me for projects!
 <br>
-<i>Sinta-se livre para conversar comigo. Me chama para projetos!
+<i>Sinta-se livre para conversar comigo. Me chame para projetos!
 
