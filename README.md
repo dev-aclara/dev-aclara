@@ -15,7 +15,7 @@
 🪐 *Moved by music and technology* <br>
 *Movida por música e tecnologia*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aclara&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aclara&theme=material-palenight) ![Claras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aclara&show_icons=true&theme=material-palenight)
 
 
 ## ✉️ Find me on/Me encontre em:
