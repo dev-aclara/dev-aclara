@@ -4,12 +4,12 @@
 📍 Tupi Paulista, São Paulo, Brasil
 
 **Currently:** <br>
-  👩‍💻 *Computer science student and C#.Net intern* <br>
-	  *Estudante de Ciência da Computação - UNIFAI - Adamantina, São Paulo*
+  👩‍💻 *Computer science student and Developer intern* <br>
+	  *Estudante de Ciência da Computação - UNIFAI - Adamantina, São Paulo e estagiária de Desenvolvimento*
 	  
 **Studying:** <br>
-🎯 *Advanced JavaScript and ReactJS* <br>
-*JavaScrip avançado e ReactJs*
+<a href="https://pt-br.reactjs.org/docs/getting-started.html"><img alt=NEXTJS src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a> <a href="https://nextjs.org"><img alt=NEXTJS src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+
 
 **Fun Fact:** <br>
 🪐 *Moved by music and technology* <br>
