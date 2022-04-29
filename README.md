@@ -8,14 +8,10 @@
 	  *Estudante de Ciência da Computação - UNIFAI - Adamantina, São Paulo e estagiária de Desenvolvimento*
 	  
 **Studying:** <br>
-<a href="https://pt-br.reactjs.org/docs/getting-started.html"><img alt=NEXTJS src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a> <a href="https://nextjs.org"><img alt=NEXTJS src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+<a href="https://pt-br.reactjs.org/docs/getting-started.html"><img alt=NEXTJS src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a><a href="https://nodejs.org"><img alt=NODEJS src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 
 
-**Fun Fact:** <br>
-🪐 *Moved by music and technology* <br>
-*Movida por música e tecnologia*
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aclara&theme=material-palenight) ![Claras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aclara&show_icons=true&theme=material-palenight)
+![Claras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aclara&show_icons=true&theme=material-palenight)
 
 
 ## ✉️ Find me on/Me encontre em:
@@ -27,7 +23,7 @@
 </p>
 <br>
 <br>
-💬 <i>Feel free to chat with me. Call me for projects!
+💬 <i>Feel free to chat with me!
 <br>
-<i>Sinta-se livre para conversar comigo. Me chame para projetos!
+<i>Sinta-se livre para conversar comigo!
 
