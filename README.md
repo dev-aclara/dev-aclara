@@ -1,20 +1,17 @@
 # Hey 👋
 😊 I'm Ana Clara Mansano! <br>
-📆 20 years old <br>
-📍 Tupi Paulista, São Paulo, Brasil
+📆 21 years old <br>
+📍 Tupi Paulista, São Paulo, Brasil  <br>
+🎓 Bachelor of Computer Science  <br>
+👩‍💻 Full Stack Web Developer
 
-**Currently:** <br>
-  👩‍💻 *Computer science student and Web Developer at Jera* <br>
-	  *Estudante de Ciência da Computação - UNIFAI - Adamantina, São Paulo e Desenvolvedora Web na Jera*
+
+
+<img src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" width="220" height="180" />
+
 	  
-**Studying:** <br>
+**Stacks:** <br>
 <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img alt=NEXTJS src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a> <a href="https://nodejs.org"><img alt=NODEJS src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a> <a href="https://rubyonrails.org"><img alt=RUBY src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a> <a href="https://vuejs.org"><img alt=VUEJS src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
-
-
-[![Clara's github trophy](https://github-profile-trophy.vercel.app/?username=dev-aclara&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Claras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aclara&show_icons=true)
-
 
 ## ✉️ Find me on/Me encontre em:
 
