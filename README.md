@@ -1,5 +1,5 @@
 # Hey 👋
-<img align="right" width="30%" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" alt="coding" />
+<img align="right" width="40%" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" alt="coding" />
 
 😊 I'm Ana Clara Mansano! <br>
 📆 21 years old <br>
