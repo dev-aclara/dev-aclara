@@ -1,13 +1,11 @@
 # Hey 👋
+<img align="right" width="30%" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" alt="coding" />
+
 😊 I'm Ana Clara Mansano! <br>
 📆 21 years old <br>
-📍 Tupi Paulista, São Paulo, Brasil  <br>
-🎓 Bachelor of Computer Science  <br>
-👩‍💻 Full Stack Web Developer
-
-
-
-<img src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" width="220" height="180" />
+📍 São Paulo, Brasil  <br>
+🎓 **Bachelor of Computer Science**  <br>
+👩‍💻 **Full Stack Web Developer**
 
 	  
 **Stacks:** <br>
@@ -25,4 +23,6 @@
 💬 <i>Feel free to chat with me!
 <br>
 <i>Sinta-se livre para conversar comigo!
+	
+	
 
